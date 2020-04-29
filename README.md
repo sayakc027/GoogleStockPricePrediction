@@ -1,4 +1,4 @@
-# Forecasting Google Stock Price incorporating COVID 19
+# Forecasting Google Stock Price incorporating COVID-19
 ### ARIMA, KNN & Neural Networks
 
 ## RPubs Link: 
